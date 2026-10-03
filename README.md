@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Wesley Jesus de Souza Campos🎓 **Analista em Desenvolvimento de Sistemas (ADS)** — Centro Universitário São Lourenço (UNISL) · Conclusão em 2027
+# 👋 Olá! Eu sou o Wesley Jesus de Souza Campos🎓 **Análise e Desenvolvimento de Sistemas (ADS)** — Centro Universitário São Lourenço (UNISL) · Conclusão em 2027
 📍 Aiuruoca, Minas Gerais
 💼 Trabalhando na construção civil e estudando programação nos tempos livres
 
